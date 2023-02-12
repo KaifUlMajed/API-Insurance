@@ -1,0 +1,12 @@
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.csproj.AssemblyReference.cache
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.AssemblyInfoInputs.cache
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.AssemblyInfo.cs
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.csproj.CoreCompileInputs.cache
+D:\Code\API-Markel\API-Markel\API-Markel.Data\bin\Debug\net6.0\API-Markel.Data.deps.json
+D:\Code\API-Markel\API-Markel\API-Markel.Data\bin\Debug\net6.0\API-Markel.Data.dll
+D:\Code\API-Markel\API-Markel\API-Markel.Data\bin\Debug\net6.0\API-Markel.Data.pdb
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.dll
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\refint\API-Markel.Data.dll
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\API-Markel.Data.pdb
+D:\Code\API-Markel\API-Markel\API-Markel.Data\obj\Debug\net6.0\ref\API-Markel.Data.dll
